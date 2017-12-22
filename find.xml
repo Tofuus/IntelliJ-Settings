@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'minecrafttents'" />
+    <option name="defaultScopeName" value="Project 'minecrafttents'" />
+    <option name="SEARCH_SCOPE" value="Project 'minecrafttents'" />
   </component>
 </application>
