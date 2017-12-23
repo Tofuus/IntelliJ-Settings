@@ -94,6 +94,18 @@
           <option name="url" value="https://gitlab.lordofthecraft.net/lotc-master/mineworldgen.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lordofthecraft.net/minegrid/moniker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lordofthecraft.net/minegrid/lotcvip.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lordofthecraft.net/minegrid/crownemporium.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Code" />
