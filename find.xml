@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Obelisk-Parent'" />
-    <option name="defaultScopeName" value="Project 'Obelisk-Parent'" />
+    <option name="customScope" value="Project 'ArcheCore'" />
+    <option name="defaultScopeName" value="Project 'ArcheCore'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Obelisk-Parent'" />
+    <option name="SEARCH_SCOPE" value="Project 'ArcheCore'" />
   </component>
 </application>
