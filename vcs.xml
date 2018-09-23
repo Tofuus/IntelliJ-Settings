@@ -218,6 +218,10 @@
           <option name="url" value="https://github.com/Tsuser1/Modern-LWC.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lordofthecraft.net/lotc-master/DependencyLoader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Code" />
