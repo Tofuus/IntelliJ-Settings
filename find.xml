@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'Luggage'" />
-    <option name="defaultScopeName" value="Module 'Luggage'" />
-    <option name="SEARCH_SCOPE" value="Module 'Luggage'" />
+    <option name="customScope" value="Module 'mineworld'" />
+    <option name="defaultScopeName" value="Module 'mineworld'" />
+    <option name="SEARCH_SCOPE" value="Module 'mineworld'" />
   </component>
 </application>
